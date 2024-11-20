@@ -1,0 +1,202 @@
+Flow State Tracks by Genre
+==================================================
+
+Analysis Date: 2024-11-20 19:58:19
+Total Tracks Analyzed: 366
+Unique Genres Found: 192
+Tracks Without Genre: 43
+
+Genre Distribution:
+------------------------------
+vocaloid: 40 tracks
+anime: 25 tracks
+japanese progressive house: 23 tracks
+otacore: 22 tracks
+j-pixie: 22 tracks
+anime rock: 21 tracks
+kawaii future bass: 20 tracks
+j-pop: 17 tracks
+kawaii edm: 17 tracks
+drum and bass: 17 tracks
+brostep: 15 tracks
+liquid funk: 15 tracks
+speedrun: 13 tracks
+gaming edm: 13 tracks
+dancefloor dnb: 13 tracks
+christian alternative rock: 12 tracks
+rhythm game: 11 tracks
+psychedelic trance: 10 tracks
+melodic dubstep: 10 tracks
+denpa-kei: 10 tracks
+rock: 10 tracks
+christian music: 9 tracks
+pixel: 9 tracks
+uk dnb: 9 tracks
+edm: 8 tracks
+alternative rock: 8 tracks
+christian rock: 8 tracks
+complextro: 7 tracks
+electro house: 7 tracks
+ccm: 7 tracks
+punk: 7 tracks
+hard rock: 7 tracks
+japanese vgm: 7 tracks
+dubstep: 6 tracks
+filthstep: 6 tracks
+dark clubbing: 6 tracks
+chillstep: 5 tracks
+gaming dubstep: 5 tracks
+chiptune: 5 tracks
+cedm: 5 tracks
+future rock: 5 tracks
+progressive psytrance: 4 tracks
+deathstep: 4 tracks
+j-core: 4 tracks
+japanese vtuber: 4 tracks
+pop rap: 4 tracks
+permanent wave: 4 tracks
+classic rock: 4 tracks
+future funk: 4 tracks
+uk dance: 4 tracks
+pop edm: 4 tracks
+cyberpunk: 4 tracks
+jungle: 4 tracks
+anime score: 4 tracks
+video game music: 4 tracks
+j-metal: 4 tracks
+stateside dnb: 3 tracks
+christian hip hop: 3 tracks
+seinen: 3 tracks
+vgm remix: 3 tracks
+new romantic: 3 tracks
+new wave: 3 tracks
+album rock: 3 tracks
+mellow gold: 3 tracks
+soft rock: 3 tracks
+pop dance: 3 tracks
+alternative metal: 3 tracks
+darksynth: 3 tracks
+japanese soundtrack: 3 tracks
+hip hop: 3 tracks
+rap: 3 tracks
+sound team: 3 tracks
+ukrainian phonk: 2 tracks
+doom metal: 2 tracks
+epic doom: 2 tracks
+swedish doom metal: 2 tracks
+antiviral pop: 2 tracks
+danish electronic: 2 tracks
+progressive house: 2 tracks
+early us punk: 2 tracks
+hardcore punk: 2 tracks
+dance rock: 2 tracks
+post-punk: 2 tracks
+synthpop: 2 tracks
+new wave pop: 2 tracks
+bass trap: 2 tracks
+canadian electronic: 2 tracks
+deep happy hardcore: 2 tracks
+hardcore techno: 2 tracks
+heartland rock: 2 tracks
+singer-songwriter: 2 tracks
+metal: 2 tracks
+bass house: 2 tracks
+jump up: 2 tracks
+deep liquid: 2 tracks
+southern hip hop: 2 tracks
+deep dnb: 2 tracks
+austrian dnb: 2 tracks
+drift phonk: 1 tracks
+gym phonk: 1 tracks
+milwaukee indie: 1 tracks
+dutch edm: 1 tracks
+j-rock: 1 tracks
+visual kei: 1 tracks
+glitch: 1 tracks
+touhou: 1 tracks
+hard trance: 1 tracks
+progressive trance: 1 tracks
+trance: 1 tracks
+uplifting trance: 1 tracks
+uk house: 1 tracks
+christian dance: 1 tracks
+electronica cristiana: 1 tracks
+christian indie: 1 tracks
+seattle hip hop: 1 tracks
+pop punk: 1 tracks
+ska: 1 tracks
+skate punk: 1 tracks
+socal pop punk: 1 tracks
+madchester: 1 tracks
+uk post-punk: 1 tracks
+art punk: 1 tracks
+synth punk: 1 tracks
+zolo: 1 tracks
+dance-punk: 1 tracks
+el paso indie: 1 tracks
+emo: 1 tracks
+post-hardcore: 1 tracks
+game mood: 1 tracks
+glam rock: 1 tracks
+meme: 1 tracks
+full on: 1 tracks
+uk funky: 1 tracks
+fake: 1 tracks
+neurofunk: 1 tracks
+russian dnb: 1 tracks
+electronic trap: 1 tracks
+riddim dubstep: 1 tracks
+fidget house: 1 tracks
+country rock: 1 tracks
+folk rock: 1 tracks
+old school thrash: 1 tracks
+thrash metal: 1 tracks
+nu metal: 1 tracks
+speed metal: 1 tracks
+canadian ccm: 1 tracks
+british soul: 1 tracks
+christian trap: 1 tracks
+synthwave: 1 tracks
+hardwave: 1 tracks
+future bass: 1 tracks
+nz electronic: 1 tracks
+memphis phonk: 1 tracks
+phonk brasileiro: 1 tracks
+anime rap: 1 tracks
+meme rap: 1 tracks
+progressive electro house: 1 tracks
+vocal house: 1 tracks
+old school bassline: 1 tracks
+ukg revival: 1 tracks
+modern jungle: 1 tracks
+aussietronica: 1 tracks
+neurostep: 1 tracks
+brazilian dnb: 1 tracks
+jazzy dnb: 1 tracks
+sambass: 1 tracks
+ragga jungle: 1 tracks
+belgian dnb: 1 tracks
+japanese classical: 1 tracks
+orchestral soundtrack: 1 tracks
+japanese celtic: 1 tracks
+seiyu: 1 tracks
+vocaloid metal: 1 tracks
+big room: 1 tracks
+slap house: 1 tracks
+trance mexicano: 1 tracks
+east coast hip hop: 1 tracks
+gangster rap: 1 tracks
+atl hip hop: 1 tracks
+trap: 1 tracks
+chicago rap: 1 tracks
+conscious hip hop: 1 tracks
+political hip hop: 1 tracks
+australian dance: 1 tracks
+moombahton: 1 tracks
+drumfunk: 1 tracks
+pixie: 1 tracks
+pop emo: 1 tracks
+eurodance: 1 tracks
+europop: 1 tracks
+italian adult pop: 1 tracks
+italo dance: 1 tracks

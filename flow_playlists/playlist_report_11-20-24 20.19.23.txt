@@ -1,0 +1,297 @@
+Playlist Creation Report
+==================================================
+
+Playlist Name: Flow - japanese_anime_tracks - 11-20-24 20.19.23
+Source File: consolidated_genres/japanese_anime_tracks.csv
+Created: 11-20-24 20.19.23
+Total Tracks: 143
+Playlist URL: https://open.spotify.com/playlist/1Fb2WhmUdGeB0hKwQz5Tu5
+
+Tracks Added:
+--------------------------------------------------
+• Heroes (From "My Hero Academia") by NateWantsToBattle
+  Tempo: 198.0 BPM, Energy: 0.94, Loudness: -3.6 dB
+• Biohazard by Crusher-P
+  Tempo: 140.0 BPM, Energy: 0.92, Loudness: -2.4 dB
+• The Day by NateWantsToBattle
+  Tempo: 186.2 BPM, Energy: 0.93, Loudness: -4.0 dB
+• Last of Me by CircusP
+  Tempo: 168.9 BPM, Energy: 0.86, Loudness: -5.7 dB
+• Oracion by dj-Jo, Lu
+  Tempo: 166.1 BPM, Energy: 0.86, Loudness: -3.4 dB
+• Kaibutsu - Remix by dj-Jo, Ririsya
+  Tempo: 170.0 BPM, Energy: 0.87, Loudness: -1.0 dB
+• Hello To Dream - Extended by dj-Jo, Takara
+  Tempo: 160.0 BPM, Energy: 0.88, Loudness: -3.2 dB
+• Again by Crusher-P
+  Tempo: 145.0 BPM, Energy: 0.90, Loudness: -6.4 dB
+• Boku no Sensou (Full Version) [Remix] by dj-Jo
+  Tempo: 144.1 BPM, Energy: 0.93, Loudness: -1.5 dB
+• Kyouran Hey Kids!! (feat. YOHIOloid) [dj-Jo Remix] by dj-Jo
+  Tempo: 141.9 BPM, Energy: 0.94, Loudness: -3.1 dB
+• Biohazard by Crusher-P
+  Tempo: 140.0 BPM, Energy: 0.92, Loudness: -2.4 dB
+• Rise by dj-Jo, Romix
+  Tempo: 165.0 BPM, Energy: 0.91, Loudness: -2.3 dB
+• Shinzou wo Sasageyo by dj-Jo
+  Tempo: 160.0 BPM, Energy: 0.89, Loudness: -1.9 dB
+• マジカルシンメトリ(Extended) feat.Anon Kanon by tilt-six
+  Tempo: 141.0 BPM, Energy: 0.98, Loudness: -2.1 dB
+• 夜明け前のレゾナンス feat.HATSUNE MIKU by tilt-six
+  Tempo: 141.0 BPM, Energy: 0.98, Loudness: -2.5 dB
+• エレクトロサチュレイタ(PandaBoY's ''Electro Winter'' Remix) feat.HATSUNE MIKU by tilt-six
+  Tempo: 141.0 BPM, Energy: 0.96, Loudness: -2.0 dB
+• ホシゾラレイン by tilt-six
+  Tempo: 143.0 BPM, Energy: 0.90, Loudness: -4.2 dB
+• Kimi No Shiranai Monogatari (feat. Hatsune Miku) [dj-Jo Remix] by dj-Jo
+  Tempo: 165.0 BPM, Energy: 0.90, Loudness: -4.0 dB
+• DARKNESS BEFORE THE DAWN! by Caleb Hyles, Lacey Sturm, Wolves At The Gate, Judge & Jury
+  Tempo: 165.0 BPM, Energy: 0.99, Loudness: -3.3 dB
+• Break Through it All by RichaadEB, Gilly
+  Tempo: 195.0 BPM, Energy: 0.97, Loudness: -2.4 dB
+• Ultimate Battle - Ka Ka Kachi Daze (From "Dragon Ball Super") by CyYu
+  Tempo: 170.0 BPM, Energy: 0.97, Loudness: -4.9 dB
+• Kimi No Sei - Remix by dj-Jo, Yune
+  Tempo: 174.1 BPM, Energy: 0.90, Loudness: -1.4 dB
+• Kiseki Saemo by Omoi
+  Tempo: 180.9 BPM, Energy: 0.98, Loudness: -1.1 dB
+• snooze (feat. SHIKI) by wotaku, SHIKI
+  Tempo: 150.0 BPM, Energy: 0.97, Loudness: -3.2 dB
+• ラグトレイン by 稲葉曇
+  Tempo: 147.0 BPM, Energy: 0.95, Loudness: -4.5 dB
+• Teo by Omoi
+  Tempo: 185.1 BPM, Energy: 0.97, Loudness: -1.9 dB
+• For the best smile! by Clean Tears
+  Tempo: 164.9 BPM, Energy: 1.00, Loudness: -3.1 dB
+• アラビアンレスポンス (Breeze Remix) by Clean Tears
+  Tempo: 150.0 BPM, Energy: 0.98, Loudness: -2.7 dB
+• Circulation (Breeze Remix) by Clean Tears
+  Tempo: 174.0 BPM, Energy: 0.91, Loudness: -3.9 dB
+• impure (Reverberations3 Remix) by Clean Tears
+  Tempo: 140.0 BPM, Energy: 0.99, Loudness: -3.9 dB
+• 1207 by Clean Tears
+  Tempo: 142.0 BPM, Energy: 0.99, Loudness: -5.6 dB
+• Chemical inversion (Reverberations3 Remix) by Clean Tears
+  Tempo: 145.0 BPM, Energy: 0.97, Loudness: -5.6 dB
+• Abandonment by Clean Tears
+  Tempo: 174.0 BPM, Energy: 0.94, Loudness: -3.4 dB
+• Tranquilizer by Clean Tears
+  Tempo: 140.0 BPM, Energy: 0.98, Loudness: -4.3 dB
+• anger [Extend-RMX] by Tripshots
+  Tempo: 140.0 BPM, Energy: 0.95, Loudness: -5.9 dB
+• Extended [Sirius RMX] by Tripshots
+  Tempo: 145.0 BPM, Energy: 1.00, Loudness: -4.7 dB
+• Rocca by Clean Tears
+  Tempo: 150.0 BPM, Energy: 0.92, Loudness: -5.5 dB
+• Far away (Album Edition) by Clean Tears
+  Tempo: 145.0 BPM, Energy: 0.97, Loudness: -6.3 dB
+• Wing by Clean Tears
+  Tempo: 142.0 BPM, Energy: 0.95, Loudness: -6.9 dB
+• Tears of palm -Trance Remix- by Clean Tears
+  Tempo: 140.0 BPM, Energy: 0.99, Loudness: -7.0 dB
+• Beyond the waves by Clean Tears
+  Tempo: 145.0 BPM, Energy: 0.98, Loudness: -6.0 dB
+• Far away by Clean Tears
+  Tempo: 145.0 BPM, Energy: 0.97, Loudness: -6.3 dB
+• Elements by Clean Tears
+  Tempo: 140.0 BPM, Energy: 0.92, Loudness: -6.5 dB
+• Far away (3x Remix) by Clean Tears
+  Tempo: 140.0 BPM, Energy: 1.00, Loudness: -5.2 dB
+• ワンダラーズ by ATOLS
+  Tempo: 152.0 BPM, Energy: 0.95, Loudness: -6.5 dB
+• Crossroads (feat. 初音ミク) by Clean Tears
+  Tempo: 140.0 BPM, Energy: 1.00, Loudness: -3.4 dB
+• Crossroads (Extended Mix) (feat. 初音ミク) by Clean Tears
+  Tempo: 140.0 BPM, Energy: 1.00, Loudness: -4.0 dB
+• アルペジオ by Clean Tears
+  Tempo: 140.0 BPM, Energy: 1.00, Loudness: -3.1 dB
+• Cosmos by Capchii, Megpoid
+  Tempo: 180.0 BPM, Energy: 0.95, Loudness: -2.0 dB
+• Tears of palm (かめりあ's "Retearing" Remix) by Clean Tears
+  Tempo: 170.0 BPM, Energy: 0.86, Loudness: -6.8 dB
+• Beyond the waves by Clean Tears
+  Tempo: 145.0 BPM, Energy: 0.98, Loudness: -6.0 dB
+• Soaring (Instrumental) by Clean Tears
+  Tempo: 140.0 BPM, Energy: 0.98, Loudness: -4.9 dB
+• shiningray(Starving Trancer Remix) by 164
+  Tempo: 144.0 BPM, Energy: 0.98, Loudness: -3.9 dB
+• Rora - BWV 999 by AVTechNO!
+  Tempo: 198.1 BPM, Energy: 0.92, Loudness: -7.0 dB
+• boku-boku by AVTechNO!
+  Tempo: 180.0 BPM, Energy: 0.98, Loudness: -6.1 dB
+• crossing field by LiSA
+  Tempo: 179.2 BPM, Energy: 0.98, Loudness: -2.4 dB
+• 君のせい by the peggies
+  Tempo: 174.0 BPM, Energy: 0.99, Loudness: -1.5 dB
+• ROCK-mode by LiSA
+  Tempo: 180.1 BPM, Energy: 0.94, Loudness: -3.2 dB
+• Canvas boy × Palette girl by LiSA
+  Tempo: 145.0 BPM, Energy: 0.97, Loudness: -1.6 dB
+• TRAGEDY:ETERNITY by MYTH & ROID
+  Tempo: 184.9 BPM, Energy: 0.86, Loudness: -5.9 dB
+• 7-seven- by FLOW, GRANRODEO
+  Tempo: 170.0 BPM, Energy: 0.93, Loudness: -3.2 dB
+• forget-me-not by ReoNa
+  Tempo: 148.0 BPM, Energy: 0.92, Loudness: -3.9 dB
+• crossing field by LiSA
+  Tempo: 179.1 BPM, Energy: 0.98, Loudness: -2.3 dB
+• Erza by Yasuharu Takanashi
+  Tempo: 146.2 BPM, Energy: 0.93, Loudness: -5.4 dB
+• センチメンタルクライシス by halca
+  Tempo: 167.2 BPM, Energy: 0.90, Loudness: -2.5 dB
+• Plunderer by 伊藤美来
+  Tempo: 164.1 BPM, Energy: 0.97, Loudness: -1.3 dB
+• QUEEN by LiSA
+  Tempo: 140.0 BPM, Energy: 0.96, Loudness: -4.0 dB
+• crossing field by LiSA
+  Tempo: 179.0 BPM, Energy: 0.98, Loudness: -2.2 dB
+• Catch the Moment by LiSA
+  Tempo: 190.1 BPM, Energy: 0.98, Loudness: -1.9 dB
+• from the edge by FictionJunction, LiSA
+  Tempo: 162.0 BPM, Energy: 0.92, Loudness: -3.8 dB
+• 白銀 by LiSA
+  Tempo: 143.0 BPM, Energy: 0.89, Loudness: -3.3 dB
+• from the edge -TV ver.- by FictionJunction, LiSA
+  Tempo: 162.2 BPM, Energy: 0.92, Loudness: -4.0 dB
+• ROCK-mode by LiSA
+  Tempo: 180.1 BPM, Energy: 0.94, Loudness: -3.2 dB
+• Rally Go Round by LiSA
+  Tempo: 189.8 BPM, Energy: 1.00, Loudness: -2.1 dB
+• dis/connect by LiSA
+  Tempo: 140.1 BPM, Energy: 0.98, Loudness: -2.5 dB
+• ジェットロケット by LiSA
+  Tempo: 178.0 BPM, Energy: 0.94, Loudness: -2.1 dB
+• シャンプーソング by LiSA
+  Tempo: 170.0 BPM, Energy: 0.97, Loudness: -2.8 dB
+• play the world! by LiSA, PABLO
+  Tempo: 160.9 BPM, Energy: 0.93, Loudness: -3.6 dB
+• ROCK-mode by LiSA
+  Tempo: 180.1 BPM, Energy: 0.94, Loudness: -3.2 dB
+• only my railgun by fripSide
+  Tempo: 143.0 BPM, Energy: 1.00, Loudness: -1.1 dB
+• JUSTadICE by Seiko Oomori
+  Tempo: 185.0 BPM, Energy: 0.99, Loudness: -1.7 dB
+• Fuwa Fuwa Time by Sakurakou K-ON Bu
+  Tempo: 180.2 BPM, Energy: 0.98, Loudness: -3.4 dB
+• 前前前世 - movie ver. by RADWIMPS
+  Tempo: 189.9 BPM, Energy: 0.91, Loudness: -4.0 dB
+• Guess Who Is Back by Kumi Koda
+  Tempo: 183.3 BPM, Energy: 0.94, Loudness: -2.8 dB
+• Redo (Re:ゼロから始める異世界生活) by 平間美賀
+  Tempo: 189.9 BPM, Energy: 0.91, Loudness: -2.6 dB
+• fantastic dreamer (この素晴らしい世界に祝福を!) by 安田みずほ
+  Tempo: 185.1 BPM, Energy: 0.90, Loudness: -3.2 dB
+• Gone Days (feat. Ranasol) by Nhato, RANASOL
+  Tempo: 155.2 BPM, Energy: 0.88, Loudness: -3.7 dB
+• Synergy by lapix
+  Tempo: 165.1 BPM, Energy: 0.96, Loudness: -4.2 dB
+• Extra Mode by USAO
+  Tempo: 195.0 BPM, Energy: 0.98, Loudness: -4.0 dB
+• CYCLE HIT by KASAI HARCORES
+  Tempo: 175.1 BPM, Energy: 0.97, Loudness: -3.4 dB
+• Dot to Dot (feat. shully) by Mameyudoufu, Shully
+  Tempo: 174.0 BPM, Energy: 0.94, Loudness: -4.8 dB
+• V&K (feat. DJKatsuya) by PSYQUI, DJ-KATSUYA
+  Tempo: 172.0 BPM, Energy: 0.87, Loudness: -5.1 dB
+• Fluffy (feat. Nakamura Sanso) by Mameyudoufu, Nakamura Sanso
+  Tempo: 175.1 BPM, Energy: 0.97, Loudness: -4.4 dB
+• Call My Name (feat. Yukacco) by Mameyudoufu, Yukacco
+  Tempo: 174.9 BPM, Energy: 0.94, Loudness: -4.8 dB
+• Trigger by Hyleo, Such
+  Tempo: 152.0 BPM, Energy: 0.94, Loudness: -5.2 dB
+• Continue (feat. Megumi Takahashi) by tokiwa, Megumi Takahashi
+  Tempo: 145.0 BPM, Energy: 0.94, Loudness: -3.3 dB
+• illumination (feat. Yukacco) by Hyleo, Yukacco
+  Tempo: 150.1 BPM, Energy: 0.95, Loudness: -4.2 dB
+• Your voice so... (feat. such) by PSYQUI, Such
+  Tempo: 176.2 BPM, Energy: 0.90, Loudness: -4.3 dB
+• One by One (feat. KMNZ LIZ) by KOTONOHOUSE, Neko Hacker, KMNZ LIZ
+  Tempo: 170.0 BPM, Energy: 0.92, Loudness: -3.3 dB
+• マシュマロ・マキアート by KOTONOHOUSE, Yunomi, くいしんぼあかちゃん
+  Tempo: 170.0 BPM, Energy: 0.97, Loudness: -3.7 dB
+• Dear by KATOMORI
+  Tempo: 145.0 BPM, Energy: 0.90, Loudness: -3.5 dB
+• Midnight grow (feat. mami) by Mameyudoufu, mami
+  Tempo: 149.9 BPM, Energy: 0.89, Loudness: -4.2 dB
+• Pastel Kokoro by EmoCosine, 中村さんそ
+  Tempo: 160.0 BPM, Energy: 0.99, Loudness: -0.9 dB
+• Lockdown (feat. NEONA) by PIKASONIC, Tatsunoshin, NEONA
+  Tempo: 175.1 BPM, Energy: 0.89, Loudness: -3.7 dB
+• Euphoria (feat. Tsugumi Nagahara) by PIKASONIC, Tatsunoshin, Tsugumi Nagahara
+  Tempo: 175.0 BPM, Energy: 0.86, Loudness: -3.7 dB
+• フリーフォール by Zekk
+  Tempo: 180.1 BPM, Energy: 0.99, Loudness: -2.6 dB
+• outro-duck-tion!! by YUC'e
+  Tempo: 167.0 BPM, Energy: 0.99, Loudness: -1.7 dB
+• From Zero (feat. Rika) by Neko Hacker, Rika
+  Tempo: 160.0 BPM, Energy: 0.94, Loudness: -3.7 dB
+• Fairyland by Elliot Hsu
+  Tempo: 180.0 BPM, Energy: 0.93, Loudness: -3.6 dB
+• Surf by Hyper Potions
+  Tempo: 155.0 BPM, Energy: 0.90, Loudness: -4.6 dB
+• 星降る夜のアデニウ by Yunomi, nicamoq
+  Tempo: 160.0 BPM, Energy: 0.97, Loudness: -3.9 dB
+• Shuwa*Shuwa Parfait by Nanahira
+  Tempo: 155.1 BPM, Energy: 0.94, Loudness: -2.5 dB
+• Night Sky (feat. Mashilo & ichika) by Neko Hacker, Mashilo, ichika
+  Tempo: 155.0 BPM, Energy: 0.91, Loudness: -4.0 dB
+• PUMP by YUC'e
+  Tempo: 180.0 BPM, Energy: 0.86, Loudness: -5.0 dB
+• わたあめパレード by YUC'e
+  Tempo: 165.1 BPM, Energy: 0.90, Loudness: -5.0 dB
+• Charisma by Elliot Hsu
+  Tempo: 160.0 BPM, Energy: 0.98, Loudness: -3.6 dB
+• Bamboo Disco (feat. TORIENA) by Yunomi, TORIENA
+  Tempo: 154.0 BPM, Energy: 0.91, Loudness: -4.1 dB
+• Maboroshi by Hyper Potions, Synthion, MYLK
+  Tempo: 170.0 BPM, Energy: 0.97, Loudness: -1.6 dB
+• ロボットハート by Yunomi, Kizuna AI
+  Tempo: 200.1 BPM, Energy: 0.93, Loudness: -2.6 dB
+• Future Cαndy by YUC'e
+  Tempo: 179.9 BPM, Energy: 0.97, Loudness: -3.4 dB
+• Sprout (feat. shully) by colate, Shully
+  Tempo: 150.0 BPM, Energy: 0.91, Loudness: -2.5 dB
+• 東京シュノーケル by Yunomi, nicamoq
+  Tempo: 160.0 BPM, Energy: 0.95, Loudness: -3.4 dB
+• Blossom by Synthion
+  Tempo: 175.0 BPM, Energy: 0.96, Loudness: -2.1 dB
+• Expedition by Hyper Potions, Nokae
+  Tempo: 160.0 BPM, Energy: 0.98, Loudness: -3.7 dB
+• Looking for a New Adventure by Camellia, Nanahira
+  Tempo: 175.0 BPM, Energy: 0.97, Loudness: -2.4 dB
+• You Make My Life 1UP - x127 Long ver. by Camellia, Nanahira
+  Tempo: 180.0 BPM, Energy: 0.98, Loudness: -1.7 dB
+• senpai, notice me! - YUC'e Remix by Camellia, Nanahira
+  Tempo: 160.0 BPM, Energy: 0.97, Loudness: -3.2 dB
+• Light it up by Camellia
+  Tempo: 174.9 BPM, Energy: 0.94, Loudness: -3.8 dB
+• Exit This Earth's Atomosphere by Camellia
+  Tempo: 170.1 BPM, Energy: 0.95, Loudness: -2.6 dB
+• SETSUNA by Shiki
+  Tempo: 144.0 BPM, Energy: 0.96, Loudness: -5.1 dB
+• to the next stage by 梶浦 由記
+  Tempo: 160.1 BPM, Energy: 0.93, Loudness: -6.3 dB
+• gunland by 梶浦 由記
+  Tempo: 160.0 BPM, Energy: 0.92, Loudness: -6.8 dB
+• she's a knockout! by 梶浦 由記
+  Tempo: 150.0 BPM, Energy: 0.93, Loudness: -7.0 dB
+• FFVII REMAKE: ガードスコーピオン (Scorpion Sentinel) by Nobuo Uematsu, 島 翔太朗
+  Tempo: 167.9 BPM, Energy: 0.88, Loudness: -6.0 dB
+• Break Through It All by SEGA SOUND TEAM, Tomoya Ohtani, Kellin Quinn
+  Tempo: 194.9 BPM, Energy: 0.95, Loudness: -4.8 dB
+• Let The Speed To Mend It by SEGA SOUND TEAM, Runblebee
+  Tempo: 175.0 BPM, Energy: 0.99, Loudness: -6.4 dB
+• Cyber Space 1-2: Flowing by SEGA SOUND TEAM, Tomoya Ohtani
+  Tempo: 175.0 BPM, Energy: 0.97, Loudness: -6.6 dB
+• Goddess by Cepheid, Nonon
+  Tempo: 199.9 BPM, Energy: 0.96, Loudness: -6.0 dB
+• I Won't Look Back by Fireflight
+  Tempo: 170.1 BPM, Energy: 0.95, Loudness: -5.4 dB
+• Live & Learn ...Main Theme of ”Sonic Adventure 2” by Crush 40
+  Tempo: 172.0 BPM, Energy: 0.96, Loudness: -4.7 dB
+• What I'm Made of...: Last Boss - ver.2 / Metal Overlord by Crush 40
+  Tempo: 178.0 BPM, Energy: 0.93, Loudness: -5.4 dB
+• What I'm Made Of... by Crush 40
+  Tempo: 178.1 BPM, Energy: 0.95, Loudness: -6.1 dB
+• Green Light Ride by Crush 40
+  Tempo: 187.0 BPM, Energy: 0.95, Loudness: -5.5 dB

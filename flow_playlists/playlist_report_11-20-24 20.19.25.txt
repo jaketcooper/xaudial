@@ -1,0 +1,195 @@
+Playlist Creation Report
+==================================================
+
+Playlist Name: Flow - other_tracks - 11-20-24 20.19.25
+Source File: consolidated_genres/other_tracks.csv
+Created: 11-20-24 20.19.25
+Total Tracks: 92
+Playlist URL: https://open.spotify.com/playlist/6rD5mZHoQMAEkIUJzyT1JV
+
+Tracks Added:
+--------------------------------------------------
+• See It Coming by Berg
+  Tempo: 140.0 BPM, Energy: 0.93, Loudness: -4.9 dB
+• Symbiosis by Jilax
+  Tempo: 140.0 BPM, Energy: 0.86, Loudness: -5.5 dB
+• Bansuri by Electric Universe
+  Tempo: 145.0 BPM, Energy: 0.96, Loudness: -4.1 dB
+• Ancient Aum by Electric Universe, Ace Ventura
+  Tempo: 142.0 BPM, Energy: 0.93, Loudness: -5.4 dB
+• Psychedelic Experience by Ranji
+  Tempo: 140.0 BPM, Energy: 0.93, Loudness: -6.0 dB
+• Keleno by Ranji, Pondora
+  Tempo: 142.0 BPM, Energy: 0.85, Loudness: -5.5 dB
+• Faya by WHITENO1SE, No Comment, Richie Loop
+  Tempo: 140.0 BPM, Energy: 0.90, Loudness: -4.8 dB
+• Demolution by InterSys
+  Tempo: 145.0 BPM, Energy: 0.94, Loudness: -4.2 dB
+• Ecstasy of Gold - P.R.O.G. Remix by WHITENO1SE, P.R.O.G.
+  Tempo: 140.0 BPM, Energy: 0.90, Loudness: -5.8 dB
+• The Highest Mountain by Astral Projection, Oforia
+  Tempo: 143.0 BPM, Energy: 0.96, Loudness: -6.1 dB
+• Flare - Sped Up by Hensonn
+  Tempo: 170.3 BPM, Energy: 0.94, Loudness: -2.6 dB
+• THOMAS by ZWE1HVNDXR, NONTHENSE
+  Tempo: 175.0 BPM, Energy: 0.91, Loudness: -4.1 dB
+• Cataclysm by Au5, Crystal Skies
+  Tempo: 140.0 BPM, Energy: 0.87, Loudness: -5.9 dB
+• About Me by Koven, ROY KNOX
+  Tempo: 180.2 BPM, Energy: 0.94, Loudness: -2.0 dB
+• Have Fun by Rameses B
+  Tempo: 174.0 BPM, Energy: 0.96, Loudness: -4.9 dB
+• Ready Now by Afinity, ary kemler
+  Tempo: 145.2 BPM, Energy: 0.89, Loudness: -3.7 dB
+• Solar by NERO
+  Tempo: 156.0 BPM, Energy: 0.93, Loudness: -4.0 dB
+• Forever Now by DVRKCLOUD, Vaance, Ines Rae
+  Tempo: 144.9 BPM, Energy: 0.91, Loudness: -4.1 dB
+• Above It by Man Cub, B-Sharp
+  Tempo: 140.0 BPM, Energy: 0.95, Loudness: -4.0 dB
+• Memories by Anki
+  Tempo: 173.9 BPM, Energy: 0.89, Loudness: -5.2 dB
+• In The Echo by Koven
+  Tempo: 174.1 BPM, Energy: 0.98, Loudness: -0.1 dB
+• Flow by Slippy
+  Tempo: 156.1 BPM, Energy: 0.86, Loudness: -4.2 dB
+• Beat Down by Bossfight
+  Tempo: 150.1 BPM, Energy: 0.99, Loudness: -2.4 dB
+• Velocity by meganeko
+  Tempo: 173.9 BPM, Energy: 0.89, Loudness: -5.9 dB
+• Be Gone Mr. Gawne by Bossfight
+  Tempo: 168.0 BPM, Energy: 0.97, Loudness: -2.6 dB
+• Epsilon (drey_o3o Remix) by meganeko, drey_o3o
+  Tempo: 174.6 BPM, Energy: 0.99, Loudness: -4.0 dB
+• FFVII REMAKE: ガードスコーピオン (Scorpion Sentinel) by Nobuo Uematsu, 島 翔太朗
+  Tempo: 167.9 BPM, Energy: 0.88, Loudness: -6.0 dB
+• Made To Love by TobyMac
+  Tempo: 170.0 BPM, Energy: 0.94, Loudness: -3.4 dB
+• Northern Sky (feat. Kb) by Capital Kings, KB
+  Tempo: 145.0 BPM, Energy: 0.97, Loudness: -2.8 dB
+• Changed - OHKI Roller Rink Remix by Jordan Feliz
+  Tempo: 174.0 BPM, Energy: 0.89, Loudness: -6.5 dB
+• Darker Waters by Matt Moore
+  Tempo: 194.0 BPM, Energy: 0.93, Loudness: -5.7 dB
+• My Novocain by Seventh Day Slumber
+  Tempo: 173.0 BPM, Energy: 0.93, Loudness: -5.0 dB
+• I Need You by Seventh Day Slumber
+  Tempo: 148.0 BPM, Energy: 0.86, Loudness: -5.1 dB
+• Yours Truly by Seventh Day Slumber, Magdalene Rose
+  Tempo: 162.0 BPM, Energy: 0.89, Loudness: -5.6 dB
+• No Plan B - Doug Weier Remix by Manafest, Doug Weier
+  Tempo: 140.1 BPM, Energy: 0.97, Loudness: -4.2 dB
+• Renegade (Doug Weier Remix) by Manafest
+  Tempo: 170.0 BPM, Energy: 0.96, Loudness: -4.5 dB
+• Unpopular by Skillet
+  Tempo: 160.1 BPM, Energy: 0.86, Loudness: -4.7 dB
+• Hero by Skillet
+  Tempo: 142.0 BPM, Energy: 0.97, Loudness: -2.5 dB
+• Heroes (From "My Hero Academia") by NateWantsToBattle
+  Tempo: 198.0 BPM, Energy: 0.94, Loudness: -3.6 dB
+• The Day by NateWantsToBattle
+  Tempo: 186.2 BPM, Energy: 0.93, Loudness: -4.0 dB
+• Biohazard by Crusher-P
+  Tempo: 140.0 BPM, Energy: 0.92, Loudness: -2.4 dB
+• Surf by Hyper Potions
+  Tempo: 155.0 BPM, Energy: 0.90, Loudness: -4.6 dB
+• Maboroshi by Hyper Potions, Synthion, MYLK
+  Tempo: 170.0 BPM, Energy: 0.97, Loudness: -1.6 dB
+• Last of Me by CircusP
+  Tempo: 168.9 BPM, Energy: 0.86, Loudness: -5.7 dB
+• Again by Crusher-P
+  Tempo: 145.0 BPM, Energy: 0.90, Loudness: -6.4 dB
+• Biohazard by Crusher-P
+  Tempo: 140.0 BPM, Energy: 0.92, Loudness: -2.4 dB
+• Expedition by Hyper Potions, Nokae
+  Tempo: 160.0 BPM, Energy: 0.98, Loudness: -3.7 dB
+• DARKNESS BEFORE THE DAWN! by Caleb Hyles, Lacey Sturm, Wolves At The Gate, Judge & Jury
+  Tempo: 165.0 BPM, Energy: 0.99, Loudness: -3.3 dB
+• Break Through it All by RichaadEB, Gilly
+  Tempo: 195.0 BPM, Energy: 0.97, Loudness: -2.4 dB
+• V&K (feat. DJKatsuya) by PSYQUI, DJ-KATSUYA
+  Tempo: 172.0 BPM, Energy: 0.87, Loudness: -5.1 dB
+• From Zero (feat. Rika) by Neko Hacker, Rika
+  Tempo: 160.0 BPM, Energy: 0.94, Loudness: -3.7 dB
+• Your voice so... (feat. such) by PSYQUI, Such
+  Tempo: 176.2 BPM, Energy: 0.90, Loudness: -4.3 dB
+• Night Sky (feat. Mashilo & ichika) by Neko Hacker, Mashilo, ichika
+  Tempo: 155.0 BPM, Energy: 0.91, Loudness: -4.0 dB
+• Looking for a New Adventure by Camellia, Nanahira
+  Tempo: 175.0 BPM, Energy: 0.97, Loudness: -2.4 dB
+• You Make My Life 1UP - x127 Long ver. by Camellia, Nanahira
+  Tempo: 180.0 BPM, Energy: 0.98, Loudness: -1.7 dB
+• senpai, notice me! - YUC'e Remix by Camellia, Nanahira
+  Tempo: 160.0 BPM, Energy: 0.97, Loudness: -3.2 dB
+• フリーフォール by Zekk
+  Tempo: 180.1 BPM, Energy: 0.99, Loudness: -2.6 dB
+• Light it up by Camellia
+  Tempo: 174.9 BPM, Energy: 0.94, Loudness: -3.8 dB
+• Exit This Earth's Atomosphere by Camellia
+  Tempo: 170.1 BPM, Energy: 0.95, Loudness: -2.6 dB
+• Extra Mode by USAO
+  Tempo: 195.0 BPM, Energy: 0.98, Loudness: -4.0 dB
+• Rock It by God's Warrior
+  Tempo: 174.1 BPM, Energy: 0.98, Loudness: -1.2 dB
+• You Saved Me by God's Warrior
+  Tempo: 150.0 BPM, Energy: 0.97, Loudness: -2.2 dB
+• Freedom by God's Warrior, Eciverate
+  Tempo: 155.1 BPM, Energy: 0.96, Loudness: -2.2 dB
+• You Honor Me by God's Warrior
+  Tempo: 175.2 BPM, Energy: 0.99, Loudness: -1.0 dB
+• Heart Force by Edu Linares, Resonant Force, Holy Moshe
+  Tempo: 150.0 BPM, Energy: 0.95, Loudness: -6.4 dB
+• Can't Hold Us (feat. Ray Dalton) by Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton
+  Tempo: 146.1 BPM, Energy: 0.92, Loudness: -4.5 dB
+• Empire State Of Mind by JAY-Z, Alicia Keys
+  Tempo: 173.5 BPM, Energy: 0.95, Loudness: -1.5 dB
+• We Own It (Fast & Furious) by 2 Chainz, Wiz Khalifa
+  Tempo: 172.1 BPM, Energy: 0.90, Loudness: -4.6 dB
+• The Show Goes On by Lupe Fiasco
+  Tempo: 143.1 BPM, Energy: 0.89, Loudness: -3.8 dB
+• Fresh by DEVO
+  Tempo: 153.0 BPM, Energy: 0.96, Loudness: -3.3 dB
+• Afraid of the Dark by KUURO, Sophiya
+  Tempo: 160.1 BPM, Energy: 0.92, Loudness: -5.8 dB
+• Fade Away (Deaf Kev Remix) by Jacob Tillberg, Deaf Kev
+  Tempo: 174.9 BPM, Energy: 0.93, Loudness: -4.4 dB
+• Bring Me Joy - Freaks & Geeks Remix by Rudimental, Karen Harding, Freaks & Geeks
+  Tempo: 173.8 BPM, Energy: 0.96, Loudness: -1.2 dB
+• All We Get by Elephante, yetep, Daye
+  Tempo: 150.1 BPM, Energy: 0.87, Loudness: -4.7 dB
+• Shine On by Kaskade, Wilkinson, Paige Cavell
+  Tempo: 174.0 BPM, Energy: 0.97, Loudness: -2.3 dB
+• D.j Vengeance by Beat Hackers
+  Tempo: 145.0 BPM, Energy: 0.97, Loudness: -5.4 dB
+• Step Back by Gammer, Pixel Terror
+  Tempo: 150.0 BPM, Energy: 0.98, Loudness: -2.0 dB
+• Step Back by Gammer, Pixel Terror
+  Tempo: 150.0 BPM, Energy: 0.98, Loudness: -2.0 dB
+• Pump by Teddy Killerz, Pegboard Nerds
+  Tempo: 174.0 BPM, Energy: 0.99, Loudness: -1.0 dB
+• Prognosis by Blue Stahli
+  Tempo: 180.0 BPM, Energy: 0.94, Loudness: -5.8 dB
+• Dead Channel by Blue Stahli
+  Tempo: 180.0 BPM, Energy: 0.90, Loudness: -5.6 dB
+• Upgrade - Rewired by HYPER by Blue Stahli, Danny Cocke, Hyper
+  Tempo: 200.0 BPM, Energy: 0.94, Loudness: -6.0 dB
+• Droideka by Neoslave
+  Tempo: 199.9 BPM, Energy: 0.86, Loudness: -6.9 dB
+• Faith - One Hunna Remix by SoulBox, Geek Boy
+  Tempo: 174.1 BPM, Energy: 0.87, Loudness: -6.5 dB
+• Bang by Konata Small
+  Tempo: 155.0 BPM, Energy: 0.96, Loudness: -2.8 dB
+• SETSUNA by Shiki
+  Tempo: 144.0 BPM, Energy: 0.96, Loudness: -5.1 dB
+• Fluent by Flava D, Emz
+  Tempo: 174.0 BPM, Energy: 0.93, Loudness: -3.4 dB
+• Break Through It All by SEGA SOUND TEAM, Tomoya Ohtani, Kellin Quinn
+  Tempo: 194.9 BPM, Energy: 0.95, Loudness: -4.8 dB
+• Let The Speed To Mend It by SEGA SOUND TEAM, Runblebee
+  Tempo: 175.0 BPM, Energy: 0.99, Loudness: -6.4 dB
+• Cyber Space 1-2: Flowing by SEGA SOUND TEAM, Tomoya Ohtani
+  Tempo: 175.0 BPM, Energy: 0.97, Loudness: -6.6 dB
+• Centipede by Knife Party
+  Tempo: 140.1 BPM, Energy: 0.95, Loudness: -3.7 dB
+• awake by effe
+  Tempo: 160.0 BPM, Energy: 0.95, Loudness: -0.6 dB

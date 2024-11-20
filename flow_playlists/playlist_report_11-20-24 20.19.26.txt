@@ -1,0 +1,91 @@
+Playlist Creation Report
+==================================================
+
+Playlist Name: Flow - rock_metal_tracks - 11-20-24 20.19.26
+Source File: consolidated_genres/rock_metal_tracks.csv
+Created: 11-20-24 20.19.26
+Total Tracks: 40
+Playlist URL: https://open.spotify.com/playlist/65EbyYy2X7Dz16uhlL2gLF
+
+Tracks Added:
+--------------------------------------------------
+• Go and Get It by Memento Mori, Massivebass, Massivo
+  Tempo: 145.0 BPM, Energy: 0.86, Loudness: -6.3 dB
+• Hogbeza by Memento Mori, Psyfeature
+  Tempo: 142.0 BPM, Energy: 0.86, Loudness: -5.2 dB
+• Mean to Me - Trinergy Remix by Valerie Lighthart, Trinergy
+  Tempo: 150.3 BPM, Energy: 0.89, Loudness: -1.9 dB
+• Made To Love by TobyMac
+  Tempo: 170.0 BPM, Energy: 0.94, Loudness: -3.4 dB
+• Northern Sky (feat. Kb) by Capital Kings, KB
+  Tempo: 145.0 BPM, Energy: 0.97, Loudness: -2.8 dB
+• Changed - OHKI Roller Rink Remix by Jordan Feliz
+  Tempo: 174.0 BPM, Energy: 0.89, Loudness: -6.5 dB
+• Darker Waters by Matt Moore
+  Tempo: 194.0 BPM, Energy: 0.93, Loudness: -5.7 dB
+• No Plan B - Doug Weier Remix by Manafest, Doug Weier
+  Tempo: 140.1 BPM, Energy: 0.97, Loudness: -4.2 dB
+• Renegade (Doug Weier Remix) by Manafest
+  Tempo: 170.0 BPM, Energy: 0.96, Loudness: -4.5 dB
+• Unpopular by Skillet
+  Tempo: 160.1 BPM, Energy: 0.86, Loudness: -4.7 dB
+• I Won't Look Back by Fireflight
+  Tempo: 170.1 BPM, Energy: 0.95, Loudness: -5.4 dB
+• My Novocain by Seventh Day Slumber
+  Tempo: 173.0 BPM, Energy: 0.93, Loudness: -5.0 dB
+• I Need You by Seventh Day Slumber
+  Tempo: 148.0 BPM, Energy: 0.86, Loudness: -5.1 dB
+• Hero by Skillet
+  Tempo: 142.0 BPM, Energy: 0.97, Loudness: -2.5 dB
+• Yours Truly by Seventh Day Slumber, Magdalene Rose
+  Tempo: 162.0 BPM, Energy: 0.89, Loudness: -5.6 dB
+• 前前前世 - movie ver. by RADWIMPS
+  Tempo: 189.9 BPM, Energy: 0.91, Loudness: -4.0 dB
+• Holiday in Cambodia by Dead Kennedys
+  Tempo: 205.4 BPM, Energy: 0.98, Loudness: -3.9 dB
+• Police Truck by Dead Kennedys
+  Tempo: 202.4 BPM, Energy: 0.97, Loudness: -5.4 dB
+• Age of Consent - 2015 Remaster by New Order
+  Tempo: 162.0 BPM, Energy: 0.91, Loudness: -5.6 dB
+• Fresh by DEVO
+  Tempo: 153.0 BPM, Energy: 0.96, Loudness: -3.3 dB
+• Holidays in the Sun by Sex Pistols
+  Tempo: 147.9 BPM, Energy: 0.98, Loudness: -4.8 dB
+• Brand New Cadillac by The Clash
+  Tempo: 151.6 BPM, Energy: 0.88, Loudness: -6.2 dB
+• Tommy Gun - Remastered by The Clash
+  Tempo: 162.0 BPM, Energy: 0.94, Loudness: -5.7 dB
+• No Feelings by Sex Pistols
+  Tempo: 164.3 BPM, Energy: 0.96, Loudness: -5.7 dB
+• Superman by Goldfinger
+  Tempo: 194.8 BPM, Energy: 0.94, Loudness: -4.0 dB
+• Runnin' Wild by Airbourne
+  Tempo: 162.1 BPM, Energy: 0.95, Loudness: -4.1 dB
+• Blackjack by Airbourne
+  Tempo: 185.1 BPM, Energy: 0.97, Loudness: -2.9 dB
+• R.O.C.K. In The U.S.A. (A Salute To 60's Rock) by John Mellencamp
+  Tempo: 164.0 BPM, Energy: 0.96, Loudness: -4.0 dB
+• Runnin' Down A Dream by Tom Petty
+  Tempo: 169.8 BPM, Energy: 0.96, Loudness: -6.4 dB
+• Heartbreaker by Airbourne
+  Tempo: 151.1 BPM, Energy: 0.94, Loudness: -3.4 dB
+• Hardwired by Metallica
+  Tempo: 185.4 BPM, Energy: 0.99, Loudness: -3.1 dB
+• Rock Out by Motörhead
+  Tempo: 143.0 BPM, Energy: 0.99, Loudness: -5.3 dB
+• The Wait - 2006 Remaster by Pretenders
+  Tempo: 187.4 BPM, Energy: 0.85, Loudness: -6.4 dB
+• Don't Stop Me Now - Remastered 2011 by Queen
+  Tempo: 156.3 BPM, Energy: 0.86, Loudness: -5.3 dB
+• Enfilade by At the Drive-In
+  Tempo: 171.1 BPM, Energy: 0.95, Loudness: -4.2 dB
+• Prognosis by Blue Stahli
+  Tempo: 180.0 BPM, Energy: 0.94, Loudness: -5.8 dB
+• Dead Channel by Blue Stahli
+  Tempo: 180.0 BPM, Energy: 0.90, Loudness: -5.6 dB
+• Upgrade - Rewired by HYPER by Blue Stahli, Danny Cocke, Hyper
+  Tempo: 200.0 BPM, Energy: 0.94, Loudness: -6.0 dB
+• Redneck Technology by 3D Stas
+  Tempo: 175.0 BPM, Energy: 0.97, Loudness: -2.2 dB
+• Run You by The Qemists
+  Tempo: 173.9 BPM, Energy: 0.89, Loudness: -2.8 dB

@@ -1,0 +1,13 @@
+Genre Consolidation Report
+==================================================
+
+ELECTRONIC: 122 tracks
+ROCK_METAL: 40 tracks
+JAPANESE_ANIME: 143 tracks
+OTHER: 92 tracks
+
+Files created:
+- electronic_tracks.csv
+- rock_metal_tracks.csv
+- japanese_anime_tracks.csv
+- other_tracks.csv
